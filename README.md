@@ -1,2 +1,3 @@
-# google-1998-beta
- exercise with patika
+# google-1998-beta (nostalgia)
+
+exercise with patika
